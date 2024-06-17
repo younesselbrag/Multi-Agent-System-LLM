@@ -1,0 +1,15 @@
+langchain_community
+tiktoken 
+langchainhub
+chromadb 
+langchain 
+langgraph 
+langchain-text-splitters 
+sentence_transformers
+streamlit
+pandas
+streamlit_option_menu
+streamlit
+pysqlite3-binary
+
+
