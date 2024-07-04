@@ -1,4 +1,4 @@
-## Planing Project PFE : Alignment Corrective RAG Personalization System and LTSM Duration Prediction Task
+## Alignment Self-Evaluation RAG Personalization System and LTSM Duration Prediction Task
 
  **The problematic:**
 
@@ -127,4 +127,3 @@ This section outlines the pipeline for developing an AI model using Long Short-T
     - Conduct a thorough analysis of model performance to identify potential areas for improvement, such as exploring alternative LSTM architectures or incorporating additional features.
 
 
-#### Streamlit APP UI 

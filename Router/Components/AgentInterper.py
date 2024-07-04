@@ -52,6 +52,7 @@ def AgentExecutor(Agent,df,prompt,Helper_prompt,Memory=memory):
                 early_stopping_method  = "force",
                 memory=Memory,
                 return_intermediate_seps= True,
+                setting allow_dangerous_code=True,
                 )   
                 
 
